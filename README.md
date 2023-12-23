@@ -1,2 +1,2 @@
 # Collide
-https://collide.school.lecheneau.org/
+Link to website - https://collide.school.lecheneau.org/
